@@ -1,0 +1,41 @@
+body {
+    background: #0a3046;
+}
+
+.container {
+    min-width: 320px;
+    max-width: 400px;
+}
+
+input[type=text],
+input[type=text]:focus {
+    color: #fff;
+    border: none;
+    background: rgba(0, 0, 0, 0.2);
+    min-width: 320px;
+    max-width: 400px;
+}
+
+.todos li {
+    background: #068488;
+}
+
+.delete {
+    cursor: pointer;
+}
+
+.error {
+    color: #fff;
+    display: none;
+}
+
+.empty {
+    color: #068488;
+    background: #fff;
+    font-size: 2em;
+    padding: 20px;
+}
+
+.hide {
+    display: none !important;
+}
