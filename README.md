@@ -1,4 +1,5 @@
-# Todo-List
+# :clipboard: Todo-List
+
  Todo List with Javascript
 
  Todo List made in the course "Modern JavaScript - Novice to Ninja".
@@ -9,3 +10,8 @@
  - HTML
  - CSS
  - Bootstrap
+
+## :fire: Try it
+
+https://jesspsilva.github.io/Todo-List/
+
