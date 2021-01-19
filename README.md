@@ -15,3 +15,6 @@
 
 https://jesspsilva.github.io/Todo-List/
 
+<br/>
+
+![View](https://github.com/VishalGhai/Todo-List/blob/master/Todo-list.gif)
